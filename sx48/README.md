@@ -7,4 +7,4 @@ work out yourself where to source these from. pcb cad has been assembled and tes
 1x sx48
 1x 50mhz ceramic resonator
 
-Follow subzero diagrams exact match for lettering for Final ICE.
+Exact match for lettering for Final ICE.
