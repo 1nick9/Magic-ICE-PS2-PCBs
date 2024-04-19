@@ -4,5 +4,4 @@ Edit: need active 3225 for how cadded. link was passive which just crystal acros
 https://www.aliexpress.com/item/1005005439156839.html
 https://www.aliexpress.com/item/4000118708552.html
 
-
-put a pull request once test how goes if is fine as is or how need alt. i have no need to get fab myself.
+if using 3225 active the R1 33k isn't to go on and once flashed and for use close jp1. the active clock makes it unable to flash.
